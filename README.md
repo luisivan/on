@@ -1,7 +1,7 @@
 Asturix ON
 ==
 
-(This is a backup of [https://gitorious.org/on/on/](https://gitorious.org/on/on/)
+(This is a backup of [https://gitorious.org/on/on/](https://gitorious.org/on/on/))
 
 Web desktop environment for Linux developed with web technologies plus a small C++ codebase to expose native methods to Javascript.
 
