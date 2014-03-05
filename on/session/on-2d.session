@@ -1,0 +1,8 @@
+[GNOME Session]
+Name=On 2D
+RequiredComponents=gnome-settings-daemon;
+RequiredProviders=windowmanager;panel;launcher;
+DefaultProvider-windowmanager=openbox
+DefaultProvider-panel=onpanel
+DefaultProvider-launcher=onshell
+DesktopName=Asturix On 2D

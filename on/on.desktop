@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=On
+Comment=Asturix On
+Exec=gnome-session --session=on
+TryExec=onpanel
+Icon=
+Type=Application

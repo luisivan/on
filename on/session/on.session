@@ -1,0 +1,9 @@
+[GNOME Session]
+Name=On
+RequiredComponents=gnome-settings-daemon;
+RequiredProviders=windowmanager;panel;launcher;
+DefaultProvider-windowmanager=compiz
+DefaultProvider-panel=onpanel
+DefaultProvider-launcher=onshell
+IsRunnableHelper=/usr/lib/gnome-session/gnome-session-check-accelerated-helper
+FallbackSession=on-2d
